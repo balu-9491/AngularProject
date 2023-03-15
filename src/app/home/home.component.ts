@@ -98,3 +98,10 @@ for(let  i=strr.length-1; i>=0;i--){
 } return output;
 }
 console.log(reverse("javascript code"))
+
+//even number finding method
+
+let zyx =[4,6,7,8,9,14,11,17,24,12,18];
+let dell = zyx.filter((j)=>j%2===0);
+let  sorted = dell.sort((a,b)=>a-b)
+console.log(sorted)
