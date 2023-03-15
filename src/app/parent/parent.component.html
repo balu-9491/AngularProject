@@ -1,0 +1,18 @@
+<p>parent works!</p>
+<h3>{{message}}</h3>
+<p>Today is {{date|date}}</p>
+<h1 [style.color]="color" class="g">Hello World</h1>
+<button (click)="changeColor()" class="d">changeColor</button>
+
+<h2 >Two way binding</h2>
+<input type="txt" [(ngModel)]="name" placeholder="enter your name">
+<p>hello,{{name}}</p>
+
+
+<p>Total Amount: {{totalAmount | currency}}</p>
+
+<p>Taxed Amount: {{getTaxedAmount() | currency}}</p>
+<p>Net Amount: {{(totalAmount - getTaxedAmount()) | currency}}</p>
+
+
+<button (click)="generatePDF()">Download PDF</button>

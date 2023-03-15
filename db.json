@@ -1,0 +1,116 @@
+{
+  "posts": [
+    {
+      "name": "ravi",
+      "email": "ravipottewar@gmail.com",
+      "city": "kodichera",
+      "pincode": 503309,
+      "mobilenumber": 9666671425,
+      "id": 1
+    },
+    {
+      "name": "bahgya",
+      "email": "bhagyapottewar@gmail.com",
+      "city": "kurthi",
+      "pincode": 503309,
+      "mobilenumber": 9948519556,
+      "id": 2
+    },
+    {
+      "name": "balu",
+      "email": "ravipottewar@gmail.com",
+      "city": "kodichera",
+      "pincode": 503309,
+      "mobilenumber": 9666671425,
+      "id": 3
+    },
+    {
+      "name": "balu",
+      "email": "ravipottewar@gmail.com",
+      "city": "kodichera",
+      "pincode": 503309,
+      "mobilenumber": 9666671425,
+      "id": 4
+    },
+    {
+      "name": "balu",
+      "email": "ravipottewar@gmail.com",
+      "city": "kodichera",
+      "pincode": 503309,
+      "mobilenumber": 9666671425,
+      "id": 5
+    },
+    {
+      "name": "balu",
+      "email": "ravipottewar@gmail.com",
+      "city": "kodichera",
+      "pincode": 503309,
+      "mobilenumber": 9666671425,
+      "id": 6
+    },
+    {
+      "name": "balu",
+      "email": "ravipottewar@gmail.com",
+      "city": "kodichera",
+      "pincode": 503309,
+      "mobilenumber": 9666671425,
+      "id": 7
+    },
+    {
+      "name": "balu",
+      "email": "ravipottewar@gmail.com",
+      "city": "kodichera",
+      "pincode": 503309,
+      "mobilenumber": 9666671425,
+      "id": 8
+    },
+    {
+      "name": "balu",
+      "email": "ravipottewar@gmail.com",
+      "city": "kodichera",
+      "pincode": 503309,
+      "mobilenumber": 9666671425,
+      "id": 9
+    },
+    {
+      "name": "balu",
+      "email": "ravipottewar@gmail.com",
+      "city": "kodichera",
+      "pincode": 503309,
+      "mobilenumber": 9666671425,
+      "id": 10
+    },
+    {
+      "name": "ravi",
+      "email": "balaji@gmail.com",
+      "city": "hyd",
+      "pincode": 503309,
+      "mobilenumber": 9491191944,
+      "id": 11
+    },
+    {
+      "name": "srikanth",
+      "email": "sri@gmail.com",
+      "city": "karimnagar",
+      "pincode": 503309,
+      "mobilenumber": 9491191944,
+      "id": 12
+    },
+    {
+      "name": "srikanth",
+      "email": "srikanth@gmail.com",
+      "city": "hyd",
+      "pincode": 503309,
+      "mobilenumber": 9491191944,
+      "id": 13
+    },
+    {
+      "name": "shiva",
+      "email": "shiva@gmail.com",
+      "city": "eklara",
+      "pincode": 5033265,
+      "mobilenumber": 9588958823,
+      "id": 14
+    }
+  ]
+}
